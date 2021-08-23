@@ -1,4 +1,4 @@
-# TareasCursos20B
+# TareasCursos
 Este repostorio debe clonarse para reportar las tareas y asignaciones
 Dispone de tres directorios: 
 + DocPDF (para albergar los documentos)
